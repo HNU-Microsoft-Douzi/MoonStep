@@ -1,47 +1,18 @@
 <resources>
     <string name="app_name">圆月行</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="guide_page1_text1">繁华里残星点点</string>
-    <string name="guide_page1_text2">盖不住莹莹月光</string>
-    <string name="guide_page2_text1">只见那月影摇曳</string>
-    <string name="guide_page2_text2">虽不完美</string>
-    <string name="guide_page2_text3">万物芳华，终成泡影</string>
-    <string name="guide_page3_text1">待到残月完美时</string>
-    <string name="guide_page3_text2">踏过万水千山</string>
-    <string name="guide_page3_text3">道是无缺圆汝梦</string>
-    <string name="guide_page4_text1">月神分化五族</string>
-    <string name="guide_page4_text2">借你之身，圆你之梦</string>
-    <string name="guide_page5_text1">无尽奥秘</string>
-    <string name="guide_page5_text2">待你来开启</string>
-    <string name="hello">你好，请登录</string>
-    <string name="LogUtilin_weixin">微信登录</string>
-    <string name="LogUtilin_qq">QQ登录</string>
-    <string name="LogUtilin_weibo">微博登录</string>
-    <string name="reg_phone">手机注册</string>
     <string name="phone_account">手机号</string>
     <string name="country">国家</string>
     <string name="input_phone">请输入手机号</string>
     <string name="input_email">请输入邮箱</string>
     <string name="input_password">输入密码</string>
     <string name="password">密码</string>
-    <string name="forget_password">忘记了密码？</string>
     <string name="verification_code">验证码</string>
-    <string name="click_LogUtilin">点击登录</string>
     <string name="input_message">请输入验证码</string>
     <string name="input_password_again">再次输入密码</string>
     <string name="click_register">点击注册</string>
     <string name="return_LogUtilin">返回登录</string>
     <string name="confirm">确认</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="moon_place">圆月宫</string>
-    <string name="real_world">真实世界</string>
-    <string name="moon_title">圆月称号</string>
-    <string name="moon_task">圆月任务</string>
-    <string name="contact_us">联系我们</string>
-    <string name="moon_customer">圆月客服</string>
-    <string name="share">Share</string>
-    <string name="tab_menu_tree">月木</string>
     <string name="tab_menu_community">社区</string>
     <string name="tab_menu_heart">月友</string>
     <string name="tab_menu_me">我</string>
@@ -52,7 +23,6 @@
     <string name="click_into_personal_info">点击进入个人详情页</string>
     <string name="send">发送</string>
     <string name="nothing">Nothing</string>
-    <string name="click_jump">点击跳过</string>
     <string name="nickName">昵称</string>
     <string name="man">男</string>
     <string name="woman">女</string>
@@ -63,8 +33,6 @@
     <string name="landing">LANDING</string>
     <string name="did_you_forget_your_password">Did you forget your password?</string>
     <string name="join_us">Join Us</string>
-    <string name="User_Race">种族：</string>
-    <string name="Race_Description">种族描述：</string>
     <string name="picture_cancel">取消</string>
     <string name="map">月图</string>
 </resources>
